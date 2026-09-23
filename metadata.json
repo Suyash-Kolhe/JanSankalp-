@@ -1,0 +1,6 @@
+{
+  "name": "JanSankalp",
+  "description": "Multilingual AI Digital Public Good aggregating citizen requests into prioritized infrastructure recommendations for Indian policymakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
